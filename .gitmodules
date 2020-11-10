@@ -1,0 +1,3 @@
+[submodule "letter-paper"]
+	path = letter-paper
+	url = https://github.com/akeyz/letter-paper
