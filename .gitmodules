@@ -1,3 +1,6 @@
 [submodule "letter-paper"]
 	path = letter-paper
 	url = https://github.com/akeyz/letter-paper
+[submodule "big-screen-structure"]
+	path = big-screen-structure
+	url = https://github.com/akeyz/big-screen-structure.git
